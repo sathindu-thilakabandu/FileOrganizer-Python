@@ -7,7 +7,15 @@ A Python-based automation tool that cleans up cluttered directories by sorting f
 * **Smart Folder Creation:** Automatically creates destination folders if they don't exist.
 * **Safe Handling:** Skips existing directories to avoid recursive loops.
 
+
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
    git clone [https://github.com/sathindu-thilakabandu/FileOrganizer-Python.git](https://github.com/sathindu-thilakabandu/FileOrganizer-Python.git)
+
+
+
+https://github.com/user-attachments/assets/acf3d691-44a0-46c1-ace6-9ec1f3d9a724
+
+
+
